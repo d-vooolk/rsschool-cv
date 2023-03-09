@@ -21,7 +21,7 @@ return (
 );
 };`
 
-#### 3 years experience
+#### 3 years experience in Frontend Development
 **Education (Pilates training, htmlAcademy, self-education, Stepic course advanced React, IT Camasutra).**
 ### My English level is B1 (Intermediate)
 
